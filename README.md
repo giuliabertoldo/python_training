@@ -1,1 +1,3 @@
-# python_training
+Python training 
+
+A collection of Python exercises.
