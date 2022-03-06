@@ -13,7 +13,6 @@
 # ACCESS DATE COMPONENTS 
 ####################################################################
 
-from threading import local
 import pandas as pd
 
 temperatures = pd.read_csv("data/temperatures.csv")
